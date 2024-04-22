@@ -5,6 +5,7 @@ using System.Diagnostics;
 
 
 Console.Clear();
+Console.WriteLine();
 Console.WriteLine("Trabalho KNN");
 Console.WriteLine("Desenvolvido por Nícolas Carloto");
 Console.WriteLine();
