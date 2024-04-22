@@ -1,2 +1,2 @@
 # KNN
-KNN assume que coisas  semelhantes existem nas proximidades.  Em outras palavras, coisas semelhantes  estão próximas umas das outras.
+Trabalho de Inteligência Aritificial proposta em sala de aula. Onde vc precisa trazer o retorno semelhante aos filmes proposto na lista de array escolhido por mim como ideia resolução do problema. 
